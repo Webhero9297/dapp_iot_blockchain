@@ -1,6 +1,6 @@
 # IoT backend with Swarm and Ethereum smart contracts
 
-![Bether](https://github.com/Webhero9297/dapp_iot_blockchain/readme/ethstats.png "Proof-of-concept IoT backend")
+![Bether](https://github.com/Webhero9297/dapp_iot_blockchain/blob/master/readme/ethstats.png "Proof-of-concept IoT backend")
 
 ### Using Ethereum + Swarm as an IoT backend
 * IoT gateways, which are relatively powerful LoRa/NB-IoT devices, may be used to push collected data to torrent-like ```Swarm``` file storage network via HTTP.
